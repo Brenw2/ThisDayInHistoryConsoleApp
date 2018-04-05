@@ -1,0 +1,11 @@
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.csprojResolveAssemblyReference.cache
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.AssemblyInfoInputs.cache
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.AssemblyInfo.cs
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\bin\Debug\netcoreapp2.0\ThisDayInHistory.deps.json
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\bin\Debug\netcoreapp2.0\ThisDayInHistory.runtimeconfig.json
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\bin\Debug\netcoreapp2.0\ThisDayInHistory.runtimeconfig.dev.json
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\bin\Debug\netcoreapp2.0\ThisDayInHistory.dll
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\bin\Debug\netcoreapp2.0\ThisDayInHistory.pdb
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.dll
+C:\Users\B\source\repos\ThisDayInHistory\ThisDayInHistory\obj\Debug\netcoreapp2.0\ThisDayInHistory.pdb
